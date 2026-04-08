@@ -35,4 +35,8 @@ This project simulates a logistics system that matches drivers to transport jobs
 pip install -r requirements.txt
 
 python main.py
+## How to run
 
+```bash
+pip install -r requirements.txt
+python main.py
